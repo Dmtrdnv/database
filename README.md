@@ -1,0 +1,3 @@
+# 📚 Database queries:
+- <a href="https://docs.google.com/document/d/1QizQAa0tNnYV7GheHN-W48Lx_GEgtTnx/edit?usp=drive_link" title="mysql" alt="mysql"> Examples </a> of working in classic database structure in MySQL Workbench. And  examples on of <a href="https://docs.google.com/document/d/1_43BkWYcIrsnzu9OToxUi0wfcLVFqtNd/edit?usp=drive_link" title="mysqljoin" alt="mysqljoin"> JOIN </a> queries
+- <a href="https://docs.google.com/document/d/1yzSvolAOCXqcUHoGoIc5gRhmWRbf2XZu/edit?usp=drive_link" title="mongodb" alt="mongodb"> Examples </a> of working in object database structure in MongoDB
