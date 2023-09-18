@@ -1,3 +1,4 @@
 # 📚 Database queries:
+- <a href="https://drive.google.com/drive/folders/1iS9ZRyDPLuRVPmg4WHv0LFrz1gDACnMx?usp=sharing" title="dbDump" alt="dbDump"> Here </a> the database dumps used to practice
 - <a href="https://docs.google.com/document/d/1DWWxewUZf_NliBmjSsP0UKwlT20iANzE/edit?usp=sharing&ouid=116348735586936736407&rtpof=true&sd=true" title="mysql" alt="mysql"> Examples </a> of working in classic database structure in MySQL Workbench. And  examples on of <a href="https://docs.google.com/document/d/1RSGQ3LLCx7ySJIcztTvCP5TLTR73CFvp/edit?usp=sharing&ouid=116348735586936736407&rtpof=true&sd=true" title="mysqljoin" alt="mysqljoin"> JOIN </a> queries
-- <a href="https://docs.google.com/document/d/1Na5jwY8NE_bVxqbsUoqiAvlrLMc9iStD/edit?usp=sharing&ouid=116348735586936736407&rtpof=true&sd=true" title="mongodb" alt="mongodb"> Examples </a> of working in object database structure in MongoDB
+- <a href="https://docs.google.com/document/d/1Na5jwY8NE_bVxqbsUoqiAvlrLMc9iStD/edit?usp=sharing&ouid=116348735586936736407&rtpof=true&sd=true" title="mongodb" alt="mongodb"> Examples </a> of working in object database (NoSQL) structure in MongoDB
